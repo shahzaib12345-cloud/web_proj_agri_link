@@ -1,0 +1,25 @@
+
+> agrilink-frontend@1.0.0 build
+> tsc --noEmit && vite build
+
+vite v8.3.6 building client environment for production...
+transforming...
+✓ 1714 modules transformed.
+rendering chunks...
+computing gzip size...
+dist/index.html                              1.45 kB │ gzip:   0.60 kB
+dist/assets/index-t7FMSdwZ.css              46.61 kB │ gzip:   8.80 kB
+dist/assets/heart-DTQ7ziqj.js                0.24 kB │ gzip:   0.20 kB
+dist/assets/search-4ypkoryR.js               0.27 kB │ gzip:   0.21 kB
+dist/assets/trash-2-BCh2Tnna.js              0.31 kB │ gzip:   0.21 kB
+dist/assets/EmptyState-BNvaTzOy.js           0.55 kB │ gzip:   0.33 kB
+dist/assets/BuyerOffersView-CKhvoXbn.js     10.64 kB │ gzip:   2.89 kB
+dist/assets/MarketplaceView-BTXg_09Z.js     12.28 kB │ gzip:   3.62 kB
+dist/assets/WeatherAdvicePage-JoIbWqYu.js   13.11 kB │ gzip:   3.71 kB
+dist/assets/PriceBoardView-E7yqBbSD.js      17.01 kB │ gzip:   4.19 kB
+dist/assets/AdminPanel-zkv3Cp6Z.js          19.24 kB │ gzip:   4.17 kB
+dist/assets/FarmerDashboard-Cqz1VAfj.js     19.34 kB │ gzip:   4.21 kB
+dist/assets/server-BwbEyRnq.js              35.26 kB │ gzip:  10.94 kB
+dist/assets/index-Cny6TRcQ.js              379.30 kB │ gzip: 115.50 kB
+
+✓ built in 454ms
